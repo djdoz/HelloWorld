@@ -1,6 +1,6 @@
 # Project Title
 
-This is my first Github Repository
+This is my first Goodbye World Github Repository
 
 ## Getting Started
 
